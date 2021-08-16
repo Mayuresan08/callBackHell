@@ -22,7 +22,7 @@ setTimeout(()=>{
                                       timer.innerText="1";
                                       setTimeout(()=>{
                                           timer.innerText="HAPPY NEW YEAR!!!"
-                                      })
+                                      },1000)
                                   },1000)
                               },1000)
                           },1000)
